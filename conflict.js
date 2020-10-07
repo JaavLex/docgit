@@ -4,6 +4,7 @@ const x = 12
 
 function mult(x,y) {
   console.log(y)
+  console.log(x)
   return x * y 
 }
 
