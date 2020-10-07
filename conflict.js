@@ -8,6 +8,8 @@ function mult(x,y) {
   return x * y 
 }
 
+console.log("some adds")
+
 functon sous(x, y) {
   return x - y
 }
