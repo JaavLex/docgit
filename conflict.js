@@ -13,3 +13,6 @@ console.log("some adds")
 functon sous(x, y) {
   return x - y
 }
+
+
+//RESOL>VE 
